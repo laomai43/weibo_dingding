@@ -1,0 +1,4 @@
+{
+  "adb_path": "/usr/bin/adb",
+  "time_to_sleep": 3
+}
